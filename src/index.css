@@ -1,0 +1,8 @@
+/* .grid {
+  display: grid;
+  grid:
+    [nav] 'x2 x4 x4' minmax(10vh, auto) [nav]
+    [nav] 'x2 x4 x4' minmax(10vh, auto) [nav]
+    [nav] 'x2 x4 x4 ' minmax(10vh, auto) [nav]
+    / auto 80vw 10vw;
+} */
